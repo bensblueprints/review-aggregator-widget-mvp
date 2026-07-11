@@ -1,0 +1,17 @@
+services:
+  starstack:
+    build: .
+    container_name: starstack
+    restart: unless-stopped
+    ports:
+      - "5351:5351"
+    environment:
+      - PORT=5351
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/starstack.db
+      - AUTO_SYNC_HOURS=${AUTO_SYNC_HOURS:-6}
+    volumes:
+      - starstack-data:/app/data
+
+volumes:
+  starstack-data:
