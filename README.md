@@ -61,7 +61,7 @@ Trustpilot sells a review *platform*. If you just need the five stars you alread
 
 ## ☕ Skip the setup — get the 1-click installer
 
-Source is MIT, forever. Prefer a packaged Windows installer with updates? **[Get Star Stack on Whop →](https://whop.com/onetime-suite)**
+Source is MIT, forever. Prefer a packaged Windows installer with updates? **[Get Star Stack on Whop →](https://whop.com/benjisaiempire/starstack)**
 
 ## Tech stack
 
