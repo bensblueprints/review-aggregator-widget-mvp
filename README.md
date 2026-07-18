@@ -1,5 +1,9 @@
 # ⭐ Star Stack — the review widget you own forever
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Aggregate your Google, Facebook, and manually-imported reviews into one embeddable, themeable widget for your site — with moderation, featured pins, and an aggregate star badge. Self-hosted: one Node process, one SQLite file.
